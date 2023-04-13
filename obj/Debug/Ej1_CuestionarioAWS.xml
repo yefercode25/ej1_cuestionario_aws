@@ -1,0 +1,302 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ej1_CuestionarioAWS
+</name>
+</assembly>
+<members>
+<member name="T:Ej1_CuestionarioAWS.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Ej1_CuestionarioAWS.My.MyWebExtension.Computer">
+ <summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member>
+<member name="P:Ej1_CuestionarioAWS.My.MyWebExtension.User">
+ <summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member>
+<member name="P:Ej1_CuestionarioAWS.My.MyWebExtension.Request">
+ <summary>
+ Devuelve un objeto Request.
+ </summary>
+</member>
+<member name="P:Ej1_CuestionarioAWS.My.MyWebExtension.Response">
+ <summary>
+ Devuelve un objeto Response.
+ </summary>
+</member>
+<member name="P:Ej1_CuestionarioAWS.My.MyWebExtension.Log">
+ <summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblMensaje">
+<summary>
+Control LblMensaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._MvAWSCuestionario">
+<summary>
+Control MvAWSCuestionario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VPregunta1">
+<summary>
+Control VPregunta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._RBLPregunta1">
+<summary>
+Control RBLPregunta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VPregunta2">
+<summary>
+Control VPregunta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._RBLPregunta2">
+<summary>
+Control RBLPregunta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VPregunta3">
+<summary>
+Control VPregunta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._RBLPregunta3">
+<summary>
+Control RBLPregunta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VPregunta4">
+<summary>
+Control VPregunta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._RBLPregunta4">
+<summary>
+Control RBLPregunta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VPregunta5">
+<summary>
+Control VPregunta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._RBLPregunta5">
+<summary>
+Control RBLPregunta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._VResumen">
+<summary>
+Control VResumen.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblPuntuacion">
+<summary>
+Control LblPuntuacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblMensajeFInal">
+<summary>
+Control LblMensajeFInal.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta1">
+<summary>
+Control LblRespuesta1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta1Etiqueta">
+<summary>
+Control LblRespuesta1Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta2">
+<summary>
+Control LblRespuesta2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta2Etiqueta">
+<summary>
+Control LblRespuesta2Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta3">
+<summary>
+Control LblRespuesta3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta3Etiqueta">
+<summary>
+Control LblRespuesta3Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta4">
+<summary>
+Control LblRespuesta4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta4Etiqueta">
+<summary>
+Control LblRespuesta4Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta5">
+<summary>
+Control LblRespuesta5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._LblRespuesta5Etiqueta">
+<summary>
+Control LblRespuesta5Etiqueta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._BtnAnteriorPregunta">
+<summary>
+Control BtnAnteriorPregunta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._BtnSiguientePregunta">
+<summary>
+Control BtnSiguientePregunta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._BtnFinalizar">
+<summary>
+Control BtnFinalizar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Ej1_CuestionarioAWS.CuestionarioAWS._BntRepetir">
+<summary>
+Control BntRepetir.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
